@@ -71,7 +71,7 @@ This project classifies fashion items using deep learning techniques on the Fash
    ```python
    model.save('fashion_cnn_model.keras')
 ---
-##👤 Author
+## 👤 Author
 
 - Madhumitha
 - Major Project | Artificial Intelligence
